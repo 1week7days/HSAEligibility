@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/YOUR_USERNAME/hsa-eligibility-data/main/data/h
 For the iOS app, set:
 
 ```text
-HSAEligibilityRemoteSeedURL = https://raw.githubusercontent.com/YOUR_USERNAME/hsa-eligibility-data/main/data/hsa_eligible_items.json
+HSAEligibilityRemoteSeedURL = https://raw.githubusercontent.com/YOUR_USERNAME/hsa-eligibility-data/main/data/hsa-eligibility-list.json
 ```
 
 Replace `YOUR_USERNAME` with the GitHub owner.
